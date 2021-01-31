@@ -37,7 +37,8 @@ Display=8
 
 [application]
 
-config/name="Godot API Tests"
+config/name="GDScript API Tests"
+run/main_scene="Main"
 config/icon="res://icon.png"
 
 [editor_plugins]
