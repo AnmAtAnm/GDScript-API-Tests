@@ -1,0 +1,19 @@
+# Exported Binaries
+/Binary/**
+/Binaries/**
+
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+# WAT Unit Test Framework
+/Tests/Results/WAT/results.xml
+/addons/WAT/resources/results.tres
+
+# Imported translations (automatically generated from CSV files)
+*.translation
+
+# Mono-specific ignores
+.mono/
+data_*/
